@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<package>
-	<name>Dashboard</name>
-	<description>Dashboard Package</description>
-	<version>0.0.1</version>
-	<path>Dashboard/</path>
-	<repo>https://github.com/h-w-f/package-dashboard</repo>
-</package>
