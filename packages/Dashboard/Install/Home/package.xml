@@ -5,4 +5,16 @@
 	<version>0.0.1</version>
 	<repo>https://github.com/h-w-f/package-dashboard-home</repo>
 	<path>/</path>
+	<dependencies>
+		<application>
+			<name>Dashboard</name>
+			<version>0.0.1</version>
+			<repo>https://github.com/h-w-f/application-dashboard</repo>
+		</application>
+		<component>
+			<name>Home</name>
+			<version>0.0.1</version>
+			<repo>https://github.com/h-w-f/component-dashboard-home</repo>
+		</component>
+	</dependencies>
 </package>
