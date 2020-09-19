@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <package>
 	<name>Home</name>
+	<displayname>Home Package (Dashboard)</displayname>
 	<description>Home Package for Dashboard</description>
 	<version>0.0.1</version>
 	<repo>https://github.com/h-w-f/package-dashboard-home</repo>
