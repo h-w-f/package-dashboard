@@ -7,37 +7,29 @@
 	"path"			: "/",
 	"dependencies"	: {
 		"core"			: {
-			"Core" : {
-				"name"		: "Core",
-				"version"	: "0.0.1",
-				"repo"		: "https://github.com/h-w-f/core"
-			}
+			"name"		: "Core",
+			"version"	: "0.0.1",
+			"repo"		: "https://github.com/h-w-f/core"
 		},
 		"application" : {
-			"Dashboard" : {
-				"name"		: "Dashboard",
-				"version"	: "0.0.1",
-				"repo"		: "https://github.com/h-w-f/application-dashboard"
-			}
+			"name"		: "Dashboard",
+			"version"	: "0.0.1",
+			"repo"		: "https://github.com/h-w-f/application-dashboard"
 		},
-		"components"	: {
-			"Home" : {
-				"name"		: "Home",
-				"version"	: "0.0.1",
-				"repo"		: "https://github.com/h-w-f/component-dashboard-home"
-			}
-		},
-		"packages"		: {
-		},
-		"middlewares"		: {
-			"Home" : {
-				"name"		: "Home",
-				"version"	: "0.0.1",
-				"repo"		: "https://github.com/h-w-f/middleware-dashboard-home"
-			}
-		},
-		"views"			: {
-		}
+		"components"	:
+		[{
+			"name"		: "Home",
+			"version"	: "0.0.1",
+			"repo"		: "https://github.com/h-w-f/component-dashboard-home"
+		}],
+		"packages"		: [],
+		"middlewares"	:
+		[{
+			"name"		: "Home",
+			"version"	: "0.0.1",
+			"repo"		: "https://github.com/h-w-f/middleware-dashboard-home"
+		}],
+		"views"			: []
 	},
 	"settings"		: {
 	}
